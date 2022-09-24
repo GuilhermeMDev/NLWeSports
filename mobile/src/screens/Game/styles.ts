@@ -18,12 +18,19 @@ export const styles = StyleSheet.create({
     marginTop: 28,
     justifyContent: 'space-between'
   },
-  logo: {
+  logo:{
     width: 72,
     height: 40
   },
   right:{
     width: 20,
     height: 20
+  },
+
+  cover: {
+    width: 311,
+    height: 160,
+    borderRadius: 8,
+    marginTop: 32
   }
 });
